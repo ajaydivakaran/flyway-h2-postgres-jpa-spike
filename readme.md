@@ -6,7 +6,7 @@
 4. Postgresql for the database.
 5. H2 for in-memory persistence testing.
 6. Sql scripts for test data seeding and clearing.
-7. **Encrypted database credentials using Jasypt. 
+7. **Encrypted properties (e.g database credentials) using Jasypt. 
 
 ##### Resources -
 
