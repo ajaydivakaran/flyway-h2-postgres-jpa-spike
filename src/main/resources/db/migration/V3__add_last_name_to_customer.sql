@@ -1,0 +1,1 @@
+ALTER TABLE CUSTOMER ADD COLUMN last_name varchar(255);
